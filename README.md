@@ -11,11 +11,13 @@
    <br>c. kodepos : kodepos alamat utama dari pengguna
    <br>d. email : email dari pengguna
    <br>
+   <br>
 2. products, berisi detail data dari produk yang dijual. Berisi,
    <br>a. product_id : ID produk
    <br>b. desc_product : nama produk
    <br>c. category : kategori produk
    <br>d. base_price : harga asli dari produk
+   <br>
    <br>
 3. orders, berisi transaksi pembelian dari pembeli ke penjual. Berisi,
    <br>a. order_id : ID transaksi  
