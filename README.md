@@ -12,11 +12,11 @@
    <br>d. email : email dari pengguna
    <br>
 2. products, berisi detail data dari produk yang dijual. Berisi,
-  <br>a. product_id : ID produk
-  <br>b. desc_product : nama produk
-  <br>c. category : kategori produk
-  <br>d. base_price : harga asli dari produk
-  <br>
+   <br>a. product_id : ID produk
+   <br>b. desc_product : nama produk
+   <br>c. category : kategori produk
+   <br>d. base_price : harga asli dari produk
+   <br>
 3. orders, berisi transaksi pembelian dari pembeli ke penjual. Berisi,
    <br>a. order_id : ID transaksi  
    <br>b. seller_id : ID dari pengguna yang menjual
