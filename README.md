@@ -1,6 +1,6 @@
 # DQLab SQL Project: Data Analysis for E-Commerce Challenge (SQL)
-
-**Dataset:**
+<br>**Dataset:**
+<br> ![image](https://github.com/user-attachments/assets/49607237-d615-4351-9f0d-8e77604cbda2)
 <br>Dataset yang digunakan merupakan data dari DQLab Store yang merupakan e-commerce dimana pembeli dan penjual saling bertemu. 
 <br>Pengguna bisa membeli barang dari pengguna lain yang berjualan. Setiap pengguna bisa menjadi pembeli sekaligus penjual.
 <br>
