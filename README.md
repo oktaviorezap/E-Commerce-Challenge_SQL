@@ -20,7 +20,7 @@
    <br>
    <br>
 3. orders, berisi transaksi pembelian dari pembeli ke penjual. Berisi,
-   <br>a. order_id : ID transaksi  
+   <br>a. order_id : ID transaksi
    <br>b. seller_id : ID dari pengguna yang menjual
    <br>c. buyer_id : ID dari pengguna yang membeli
    <br>d. kodepos : kodepos alamat pengirimian transaksi (bisa beda dengan alamat utama)
